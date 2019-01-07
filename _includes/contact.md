@@ -1,5 +1,8 @@
-Email: <b>me@asad.co</b>
-Cybersecurity and Privacy Institue
-660 ISEC
-805 Columbus Avenue
-Boston, MA 02120
+<div class="contact">
+	<div class="email">
+		Email: <b>me@asad.co</b>
+	</div>
+	<div class="addr">
+		Cybersecurity and Privacy Institue<br>660 ISEC<br>805 Columbus Avenue<br>Boston, MA 02120
+	</div>
+</div>
