@@ -1,2 +1,2 @@
-## Contact
-You can reach out to me on _me@asad.co_
+<h3>Contact</h3>
+Email: <b>me@asad.co</b>
