@@ -18,9 +18,8 @@ gems:
   - jemoji
 
 # Variables.
-name: Asad Salman 
-description: A selection of random thoughts and useless stuff I write from time to time
-url: http://asad.co
+name: asad.co
+url: http://asad.co/
 author: asadsalman 
 logo: /assets/images/me.jpg
 
