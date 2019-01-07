@@ -6,21 +6,26 @@ $color-link: #1A0DAB;
 $color-code: #00FF00;
 
 $br: 800px;
-$break-small: 320px;
-$break-large: 1200px;
 
 .addr{
-	@media screen and (min-width: $break-large) {
+	@media screen and (min-width: 1200px) {
 		float:right;
 		text-align:right;
 	}
-	@media screen and (max-width: $break-small) {
-		float:left;
+	@media (max-width: 1000px) {
+		clear: both;
 		text-align:left;
+	}
+}
+.breakbreak{
+	display:none;
+	@media (max-width: 1000px) {
+		display:inline;
 	}
 }
 .email{
 	float:left;
+
 }
 .contact{
 	padding-top: 20%;
