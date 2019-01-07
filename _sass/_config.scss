@@ -6,10 +6,18 @@ $color-link: #1A0DAB;
 $color-code: #00FF00;
 
 $br: 800px;
+$break-small: 320px;
+$break-large: 1200px;
 
 .addr{
-	float:right;
-	text-align:right;
+	@media screen and (min-width: $break-large) {
+		float:right;
+		text-align:right;
+	}
+	@media screen and (max-width: $break-small) {
+		float:left;
+		text-align:left;
+	}
 }
 .email{
 	float:left;
