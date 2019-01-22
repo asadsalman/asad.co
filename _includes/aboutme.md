@@ -2,7 +2,7 @@ I'm a first-year PhD student at Northeastern University. I work on the security 
 
 <br>
 
-I am part of the [Network and Distributed Systems Security Lab](https://nds2.ccs.neu.edu/) and am supervised by [Cristina Nita-Rotaru](http://cnitarot.github.io).
+I am part of the [Network and Distributed Systems Security Lab](https://nds2.ccs.neu.edu/) and work with [Cristina Nita-Rotaru](http://cnitarot.github.io).
 
 <br>
 
